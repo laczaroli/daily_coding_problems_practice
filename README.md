@@ -1,1 +1,1 @@
-# Daily-Coding-Problems-practice-
+# Daily Coding Problems (practice)
